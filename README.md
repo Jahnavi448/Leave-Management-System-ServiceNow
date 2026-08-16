@@ -171,8 +171,7 @@ The workflow also supports rejection, where the Leave Request status becomes Rej
 
 The employee can submit a leave request by providing the required details.
 
-<img width="1107" height="774" alt="image" src="https://github.com/user-attachments/assets/75631ecf-c592-45d3-82db-2efc1b757d2e" />
-
+<img width="1524" height="554" alt="image" src="https://github.com/user-attachments/assets/9d4cff8c-dc72-4036-9314-3262d6320b98" />
 
 ---
 
@@ -197,8 +196,7 @@ The manager can approve the leave request.
 
 The report provides a visual breakdown of leave requests by status.
 
-<img width="1019" height="713" alt="image" src="https://github.com/user-attachments/assets/0d7d3846-812b-4fd4-9a23-036f1bbc69fd" />
-
+<img width="1919" height="341" alt="image" src="https://github.com/user-attachments/assets/68e16196-c853-49cf-9d1a-41dbe4d01a0f" />
 
 ---
 
