@@ -1,5 +1,4 @@
-# Leave-Management-System-ServiceNow
-ServiceNow Leave Management System with automated manager approval, notifications, reports, and dashboard.
+
 # 🌿 Leave Management System – ServiceNow
 
 A ServiceNow-based Leave Management System that allows employees to submit leave requests and enables managers to review, approve, or reject them.
