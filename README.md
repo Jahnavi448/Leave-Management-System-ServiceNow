@@ -171,7 +171,8 @@ The workflow also supports rejection, where the Leave Request status becomes Rej
 
 The employee can submit a leave request by providing the required details.
 
-![Leave Request](screenshots/leave-request.png)
+<img width="1107" height="774" alt="image" src="https://github.com/user-attachments/assets/75631ecf-c592-45d3-82db-2efc1b757d2e" />
+
 
 ---
 
@@ -179,7 +180,7 @@ The employee can submit a leave request by providing the required details.
 
 The manager receives an approval request for the submitted leave.
 
-![Approval Requested](screenshots/approval-requested.png)
+<img width="970" height="189" alt="image" src="https://github.com/user-attachments/assets/0e359f1a-35ce-4628-b589-3d58c5042767" />
 
 ---
 
@@ -187,7 +188,8 @@ The manager receives an approval request for the submitted leave.
 
 The manager can approve the leave request.
 
-![Approval Approved](screenshots/approval-approved.png)
+<img width="1107" height="774" alt="Screenshot 2026-08-16 101344" src="https://github.com/user-attachments/assets/91c83036-8815-4f7e-9fb4-34760e040059" />
+
 
 ---
 
@@ -195,7 +197,8 @@ The manager can approve the leave request.
 
 The report provides a visual breakdown of leave requests by status.
 
-![Leave Requests Report](screenshots/report.png)
+<img width="1019" height="713" alt="image" src="https://github.com/user-attachments/assets/0d7d3846-812b-4fd4-9a23-036f1bbc69fd" />
+
 
 ---
 
@@ -203,7 +206,7 @@ The report provides a visual breakdown of leave requests by status.
 
 The dashboard provides an overview of leave request information through visualizations.
 
-![Leave Management Dashboard](screenshots/dashboard.png)
+<img width="610" height="463" alt="image" src="https://github.com/user-attachments/assets/baf4202c-9817-4d31-a3c8-2013e168539b" />
 
 ---
 
