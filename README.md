@@ -35,28 +35,8 @@ Based on the manager's decision, the leave request status is automatically updat
 ---
 
 ## 🔄 Leave Approval Workflow
+<img width="664" height="456" alt="image" src="https://github.com/user-attachments/assets/21714f38-481a-4d1a-9f0d-d820a1e66dd5" />
 
-Employee
-   |
-   v
-Submit Leave Request
-   |
-   v
-Leave Request Created
-Status: Requested
-   |
-   v
-Manager Approval
-   |
-   +----------------+
-   |                |
-   v                v
-Approve           Reject
-   |                |
-   v                v
-Approved          Rejected
-
----
 
 ## 🛠️ Technologies Used
 
